@@ -71,7 +71,7 @@ padding-left:5px;
 const Hero = () =>{
     return(
         <Container>
-            <Banner resizeMode='contain' source={require('../images/banner.png')}  />
+            <Banner resizeMode='contain' source={require('../images/banner/logo-house-of-cards.png')}  />
             <Tags>
                 <MenuTag>Envolvente</MenuTag>
                 <Separator/>
